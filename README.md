@@ -2,7 +2,7 @@
 
 Are you tired of squinting at distorted maps, trying to fit a round peg in a square hole? Then buckle up for the journey of a lifetime with this OpenStreetMaps 3D globe demo!
 
-You can view the demo here: [https://munro.github.io/osm-globe-demo/](https://munro.github.io/osm-globe-demo/).
+You can view the demo here: [https://munro.github.io/osm-globe-demo/](https://munro.github.io/osm-globe-demo/)
 
 ## Future Improvements (TODO)
 
@@ -14,6 +14,7 @@ You can view the demo here: [https://munro.github.io/osm-globe-demo/](https://mu
 -   Fix the rotation speed, it would be cool if dragging keeps the same spot under the mouse (until it's off the globe obviously).
 -   Fix the zoom speed, it's too fast as you get closer.
 -   Mobile support (maybe it already does, idk).
+-   There seems to be a bug in Chrome where some tiles don't get loaded.
 -   Consider changing from semaphore to queue for possibly more efficient and smoother program execution.
 
 ## Development
