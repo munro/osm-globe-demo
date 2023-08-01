@@ -6,6 +6,8 @@ You can view the demo here: [https://munro.github.io/osm-globe-demo/](https://mu
 
 You could also use Mapbox: [example](https://docs.mapbox.com/mapbox-gl-js/example/flyto-options/), [source code](https://github.com/mapbox/mapbox-gl-js/blob/85ff58ce6730b6cefe0e9ce22b464d7cce16c74b/src/geo/projection/globe.js).
 
+<img src="demo.webp" alt="Animated 3D globe demo" />
+
 ## Future Improvements (TODO)
 
 -   Shader should use texture slices (not one giant texture).
