@@ -16,6 +16,7 @@ You could also use Mapbox: [example](https://docs.mapbox.com/mapbox-gl-js/exampl
 -   Prevent the loading of tiles not within the user's view.
 -   Retry to load images if initial loading fails.
 -   Fix the rotation speed, it would be cool if dragging keeps the same spot under the mouse (until it's off the globe obviously).
+    -   Rotating speed seems to be system dependent, some people it spins too fast, others it spins too slow, for me just right. :)
 -   Fix the zoom speed, it's too fast as you get closer.
 -   Mobile support (maybe it already does, idk).
 -   There seems to be a bug in Chrome where some tiles don't get loaded.
