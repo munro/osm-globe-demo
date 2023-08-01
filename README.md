@@ -2,7 +2,7 @@
 
 Are you tired of squinting at distorted maps, trying to fit a round peg in a square hole? Then buckle up for the journey of a lifetime with this OpenStreetMaps 3D globe demo!
 
-You can view the demo [here](https://munro.github.io/osm-globe-demo).
+You can view the demo here: [https://munro.github.io/osm-globe-demo/](https://munro.github.io/osm-globe-demo/).
 
 ## Future Improvements (TODO)
 

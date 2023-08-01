@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/osm-globe-demo/static/css/main.0ee67748.css",
+    "main.js": "/osm-globe-demo/static/js/main.f2a9e6a5.js",
+    "static/js/787.006b2ea3.chunk.js": "/osm-globe-demo/static/js/787.006b2ea3.chunk.js",
+    "index.html": "/osm-globe-demo/index.html",
+    "main.0ee67748.css.map": "/osm-globe-demo/static/css/main.0ee67748.css.map",
+    "main.f2a9e6a5.js.map": "/osm-globe-demo/static/js/main.f2a9e6a5.js.map",
+    "787.006b2ea3.chunk.js.map": "/osm-globe-demo/static/js/787.006b2ea3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ee67748.css",
+    "static/js/main.f2a9e6a5.js"
+  ]
+}

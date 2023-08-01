@@ -1,7 +1,18 @@
 {
   "name": "osm-globe",
   "version": "0.1.0",
-  "private": true,
+  "homepage": "https://munro.github.io/osm-globe-demo/",
+  "author": {
+    "name": "Ryan Munro",
+    "email": "500774+munro@users.noreply.github.com",
+    "url": "https://github.com/munro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/munro/osm-globe-demo.git"
+  },
+  "license": "MIT",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -20,7 +31,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "postbuild": "rm -rf docs && mv build docs",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
